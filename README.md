@@ -7,6 +7,8 @@ introduce las masas, la gravedad, la aceleración y los pisos; el programa calcu
 peso, la fuerza neta, la tensión del cable, la velocidad y el tiempo de desplazamiento, anima la
 cabina y dibuja las gráficas y(t), v(t) y a(t).
 
+El informe final en formato APA 7 está en [docs/Informe_Simulador_Ascensor.docx](docs/Informe_Simulador_Ascensor.docx).
+
 ## Cómo ejecutarlo
 
 Requisitos: Node.js 18 o superior.
